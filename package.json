@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "live-server": "^1.2.2",
+    "node-sass": "^9.0.0",
+    "sass": "^1.69.5",
+    "swiper": "^11.0.3"
+  },
+  "name": "apple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "live-server": "live-server",
+    "sass": "node-sass --watch scss/ --output css/ --recursive",
+    "sassminify": "node-sass --watch scss/ --output css/ --output-style compressed --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

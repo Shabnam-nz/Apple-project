@@ -1,0 +1,134 @@
+div.footer {
+  width: 100%;
+  height: 868px;
+  margin-top: 130px;
+  background-color: #f5f5f7; }
+  div.footer > div.footer1 {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 22px; }
+    div.footer > div.footer1 > div.footer2 {
+      width: 100%;
+      height: 350px;
+      padding: 17px 0 11px;
+      border-bottom: 1px solid #d2d2d7; }
+      div.footer > div.footer1 > div.footer2 > h2 {
+        font-family: SF-Pro;
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 0.01em;
+        padding-bottom: 0.8em;
+        color: #86868b; }
+    div.footer > div.footer1 > div.footer3 {
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      height: 460px;
+      padding-top: 20px; }
+      div.footer > div.footer1 > div.footer3 > div.footer4 {
+        width: 196px;
+        height: 440px; }
+        div.footer > div.footer1 > div.footer3 > div.footer4 > div.list1 > h3 {
+          font-family: SF-Pro;
+          font-size: 13px;
+          font-weight: 600;
+          letter-spacing: 0.01em;
+          margin-right: 20px;
+          margin-bottom: 0.8em;
+          outline: none;
+          color: #424245; }
+        div.footer > div.footer1 > div.footer3 > div.footer4 > div.list1 ul li {
+          font-family: SF-Pro;
+          font-size: 13px;
+          font-weight: 400;
+          letter-spacing: 0.01em;
+          margin-bottom: 0.8em;
+          list-style-type: none;
+          color: #86868b; }
+        div.footer > div.footer1 > div.footer3 > div.footer4 > div.list2 {
+          padding-top: 24px; }
+          div.footer > div.footer1 > div.footer3 > div.footer4 > div.list2 > h3 {
+            font-family: SF-Pro;
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: 0.01em;
+            margin-right: 20px;
+            margin-bottom: 0.8em;
+            color: #424245; }
+          div.footer > div.footer1 > div.footer3 > div.footer4 > div.list2 ul li {
+            font-family: SF-Pro;
+            font-size: 13px;
+            font-weight: 400;
+            letter-spacing: 0.01em;
+            margin-bottom: 0.8em;
+            list-style-type: none;
+            color: #86868b; }
+    div.footer > div.footer1 > div.footer5 {
+      width: 100%;
+      height: 113px;
+      padding: 34px 0 21px; }
+      div.footer > div.footer1 > div.footer5 > div.footer6 {
+        width: 100%;
+        height: 25px;
+        margin-bottom: 7px;
+        padding-bottom: 8px;
+        border-bottom: 1px solid #d2d2d7; }
+        div.footer > div.footer1 > div.footer5 > div.footer6 > p {
+          font-family: SF-Pro;
+          font-size: 13px;
+          font-weight: 400;
+          letter-spacing: 0.01em;
+          color: #86868b; }
+          div.footer > div.footer1 > div.footer5 > div.footer6 > p > u {
+            color: #0066cc; }
+      div.footer > div.footer1 > div.footer5 > div.footer7 {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 52px; }
+        div.footer > div.footer1 > div.footer5 > div.footer7 p {
+          width: 272px;
+          height: 16px;
+          margin-right: 30px;
+          margin-top: 5px;
+          font-family: SF-Pro;
+          font-size: 13px;
+          font-weight: 400;
+          letter-spacing: 0.02em;
+          color: #86868b; }
+        div.footer > div.footer1 > div.footer5 > div.footer7 > ul {
+          display: inline-block;
+          width: 433px;
+          height: 21px;
+          margin-right: 30px; }
+          div.footer > div.footer1 > div.footer5 > div.footer7 > ul li {
+            font-family: SF-Pro;
+            font-size: 13px;
+            font-weight: 400;
+            display: inline-block;
+            margin-top: 5px;
+            margin-right: 7px;
+            padding-right: 10px;
+            border-right: 1px solid #86868b;
+            color: #424245; }
+          div.footer > div.footer1 > div.footer5 > div.footer7 > ul > h1 {
+            font-family: SF-Pro;
+            font-size: 13px;
+            font-weight: 400;
+            display: inline-block;
+            margin-top: 5px;
+            margin-right: 7px;
+            padding-right: 10px;
+            color: #424245; }
+        div.footer > div.footer1 > div.footer5 > div.footer7 > h4 {
+          position: absolute;
+          width: 76px;
+          height: 16px;
+          font-family: SF-Pro;
+          font-size: 13px;
+          font-weight: 400;
+          display: inline-block;
+          margin-bottom: 40px;
+          margin-left: 85%;
+          color: #424245; }

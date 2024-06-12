@@ -1,0 +1,252 @@
+div.main {
+  position: relative;
+  width: 100%;
+  height: 4301px;
+  padding-top: 44px; }
+
+div.first {
+  display: grid;
+  grid-gap: 12px;
+  width: 100%;
+  height: 1900px;
+  border-bottom: 12px solid #fff;
+  background-color: #fff; }
+  div.first > div.second {
+    width: 100%;
+    height: 636px; }
+    div.first > div.second > div.third {
+      width: 100%;
+      height: 636px; }
+      div.first > div.second > div.third > div.forth {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 636px; }
+        div.first > div.second > div.third > div.forth > div.text1 {
+          position: relative;
+          z-index: 4;
+          width: 100%;
+          height: 187px;
+          padding-top: 47px;
+          background-color: black; }
+          div.first > div.second > div.third > div.forth > div.text1 > h2 {
+            position: relative;
+            display: block;
+            width: 100%;
+            height: 60px;
+            margin: auto auto;
+            text-align: center;
+            font-family: SF-Pro;
+            font-size: 56px;
+            font-weight: 600;
+            letter-spacing: -.005em;
+            color: #f5f5f7; }
+          div.first > div.second > div.third > div.forth > div.text1 > h3 {
+            position: relative;
+            display: block;
+            width: 100%;
+            height: 31px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 6px;
+            text-align: center;
+            font-family: SF-Pro;
+            font-size: 28px;
+            font-weight: 400;
+            letter-spacing: -.004em;
+            color: #f5f5f7; }
+          div.first > div.second > div.third > div.forth > div.text1 > div.text-1 {
+            position: relative;
+            z-index: 4;
+            display: flex;
+            width: 222px;
+            height: 29px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px; }
+            div.first > div.second > div.third > div.forth > div.text1 > div.text-1 > h2 {
+              font-family: SF-Pro;
+              font-size: 21px;
+              font-weight: 400;
+              width: 116px;
+              height: 25px;
+              color: #2997ff; }
+            div.first > div.second > div.third > div.forth > div.text1 > div.text-1 > h3 {
+              font-family: SF-Pro;
+              font-size: 21px;
+              font-weight: 400;
+              width: 55px;
+              height: 25px;
+              margin-left: 35px;
+              color: #2997ff; }
+        div.first > div.second > div.third > div.forth > div.image1 {
+          position: relative;
+          width: 100%;
+          height: 410px;
+          overflow: hidden; }
+          div.first > div.second > div.third > div.forth > div.image1 > img {
+            position: absolute;
+            top: -115px;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transform: scale(1.4); }
+
+div.text2 {
+  position: relative;
+  z-index: 4;
+  width: 100%;
+  height: 187px;
+  margin-top: -65px;
+  padding-top: 47px;
+  background-color: #f5f5f7; }
+  div.text2 > h2 {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 60px;
+    margin: auto auto;
+    text-align: center;
+    font-family: SF-Pro;
+    font-size: 56px;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    color: #1d1d1f; }
+  div.text2 > h3 {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 31px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    text-align: center;
+    font-family: SF-Pro;
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -.004em;
+    color: #1d1d1f; }
+  div.text2 div.text-1 {
+    position: relative;
+    z-index: 4;
+    display: flex;
+    width: 222px;
+    height: 29px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px; }
+    div.text2 div.text-1 > h2 {
+      font-family: SF-Pro;
+      font-size: 21px;
+      font-weight: 400;
+      width: 116px;
+      height: 25px;
+      color: #0066cc; }
+    div.text2 div.text-1 > h3 {
+      font-family: SF-Pro;
+      font-size: 21px;
+      font-weight: 400;
+      width: 55px;
+      height: 25px;
+      margin-left: 35px;
+      color: #0066cc; }
+
+div.image1 {
+  position: relative;
+  width: 100%;
+  height: 438px;
+  overflow: hidden;
+  background-image: none; }
+  div.image1 > img {
+    position: absolute;
+    top: -115px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.4);
+    background-color: #fbfbfd; }
+
+div.text3 {
+  position: relative;
+  z-index: 4;
+  width: 100%;
+  height: 187px;
+  padding-top: 47px;
+  background-color: #fbfbfd; }
+  div.text3 > h2 {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 60px;
+    margin: auto auto;
+    text-align: center;
+    font-family: SF-Pro;
+    font-size: 56px;
+    font-weight: 600;
+    letter-spacing: -.005em;
+    color: #1d1d1f; }
+  div.text3 > h3 {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 31px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    text-align: center;
+    font-family: SF-Pro;
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -.004em;
+    color: #1d1d1f; }
+  div.text3 > p {
+    width: 100%;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    text-align: center;
+    font-family: SF-Pro;
+    font-size: 21px;
+    font-weight: 400;
+    letter-spacing: -.011em;
+    color: #6e6e73; }
+  div.text3 > div.text-1 {
+    position: relative;
+    z-index: 4;
+    display: flex;
+    width: 292px;
+    height: 29px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px; }
+    div.text3 > div.text-1 > h2 {
+      font-family: SF-Pro;
+      font-size: 21px;
+      font-weight: 400;
+      width: 116px;
+      height: 25px;
+      color: #0066cc; }
+    div.text3 > div.text-1 > h3 {
+      font-family: SF-Pro;
+      font-size: 21px;
+      font-weight: 400;
+      width: 115px;
+      height: 25px;
+      margin-left: 35px;
+      color: #0066cc; }
+
+div.image1 {
+  position: relative;
+  width: 100%;
+  height: 438px;
+  overflow: hidden;
+  background-image: none; }
+  div.image1 > img {
+    position: absolute;
+    top: -115px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(1.4); }

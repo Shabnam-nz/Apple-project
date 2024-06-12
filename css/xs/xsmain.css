@@ -1,0 +1,18 @@
+@import url(xsnav.css);
+@import url(xsiphone.css);
+@import url(xsproducts.css);
+@import url(xsswiper.css);
+@import url(xsfooter.css);
+@font-face {
+  font-family: SF-Pro;
+  src: url("../font/SF-Pro/sf-pro.eot");
+  src: url("../font/SF-Pro/sf-pro.otf");
+  src: url("../font/SF-Pro/sf-pro.ttf");
+  src: url("../font/SF-Pro/sf-pro.woff");
+  src: url("../font/SF-Pro/sf-pro.woff2"); }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: SF-Pro; }
